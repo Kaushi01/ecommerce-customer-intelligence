@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Customer Intelligence Case Study
+# 🛒 Customer Segmentation & Revenue Analytics
 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
